@@ -47,6 +47,14 @@ To run this project locally, you'll need a web browser that supports HTML5 and J
 - Click the "Login" button to submit the form.
 - If the password doesn't meet the criteria, an error message will be displayed.
 
+  ## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
+
+## Contact
+If you have any questions or feedback, feel free to reach out to me at soyebarafat0122@yahoo.com
+
+
 ## Project Structure
 
 The project directory is structured as follows:
@@ -57,11 +65,3 @@ login_page1/
 │ └── login.png # Login page icon
 ├── index.html # Main HTML file for the login page
 └── README.md # This README file
-
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
-
-## Contact
-If you have any questions or feedback, feel free to reach out to me at soyebarafat0122@yahoo.com
