@@ -51,7 +51,7 @@ To run this project locally, you'll need a web browser that supports HTML5 and J
 
 The project directory is structured as follows:
 
-login_page1/
+- login_page1/
 ├── asset/ # Directory for assets like images, icons
 │ └── login.png # Login page icon
 ├── index.html # Main HTML file for the login page
