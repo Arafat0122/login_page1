@@ -49,10 +49,13 @@ To run this project locally, you'll need a web browser that supports HTML5 and J
 
 ## Project Structure
 
+The project directory is structured as follows:
+
 login_page1/
-├── index.html         # Main HTML file for the login page
-├── asset/             # Directory for assets like images, icons
-└── README.md          # This README file
+├── asset/ # Directory for assets like images, icons
+│ └── login.png # Login page icon
+├── index.html # Main HTML file for the login page
+└── README.md # This README file
 
 
 ## Contributing
